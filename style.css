@@ -176,6 +176,12 @@ body{
 
 }
 
+.button a{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+}
+
 .buttons .button:hover{
     background-color: var(--warna3);
     transform: scale(1.1);
